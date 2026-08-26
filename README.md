@@ -1,34 +1,36 @@
 # Marcelo Sombrio
 
-Construo soluções de **dados e operação para varejo**: da loja até o dashboard.
+I build **data and retail operations** systems — from the store floor to the dashboard.
 
-Hoje o foco é transformar dado bagunçado (venda, estoque, cupom, loja) em tabela confiável e indicador que dá para usar. O caminho até aqui foi front-end → Python/backend → pipelines e BI.
+Today that means turning messy operational data (sales, inventory, receipts, stores) into reliable tables and metrics you can actually use. The path here was frontend → Python/backend → pipelines and BI.
 
-## Em que estou trabalhando
+Open to **data engineering**, **analytics engineering**, and **BI** roles (remote).
 
-- Pipelines no padrão **medallion** (Bronze → Silver → Gold) com **PySpark** e **Docker**
-- BI de varejo: margem, venda, loja e categoria
-- Sistemas em **Python** para operação de loja (API, PostgreSQL, OCR e LLM)
+## What I'm working on
+
+- **Medallion** pipelines (Bronze → Silver → Gold) with **PySpark** and **Docker**
+- Retail BI: margin, sales, store, and category
+- Python systems for store operations (API, PostgreSQL, OCR, and LLMs)
 
 ## Stack
 
-**Dados e BI** — Python, SQL, PySpark, Docker, Power BI, Parquet  
+**Data & BI** — Python, SQL, PySpark, Docker, Power BI, Parquet  
 **Backend** — Flask, PostgreSQL, SQLAlchemy  
-**IA aplicada** — visão computacional (OpenCV, Tesseract) e LLM  
-**Front** — HTML, CSS, JavaScript, React, TypeScript
+**Applied AI** — computer vision (OpenCV, Tesseract) and LLMs  
+**Frontend** — HTML, CSS, JavaScript, React, TypeScript
 
-## Projetos em destaque
+## Featured projects
 
-| Projeto | O que é |
+| Project | What it is |
 | --- | --- |
-| [retail-bi-solution](https://github.com/MarceloSombrio/retail-bi-solution) | BI de uma rede de varejo fictícia: margem, vendas e visão por loja/cidade. |
-| [Base-Medalion](https://github.com/MarceloSombrio/Base-Medalion) | ETL medallion (Bronze → Silver → Gold) em PySpark, a origem da tabela que alimenta o BI. |
-| [OlaMundodev](https://github.com/MarceloSombrio/OlaMundodev) | Front-end publicado na Vercel — recorte da fase em que eu estudava a interface. |
+| [retail-bi-solution](https://github.com/MarceloSombrio/retail-bi-solution) | Retail BI for a fictional chain: margins, sales, and store/city views. |
+| [Base-Medalion](https://github.com/MarceloSombrio/Base-Medalion) | Medallion ETL (Bronze → Silver → Gold) in PySpark — the tables behind the BI. |
+| [OlaMundodev](https://github.com/MarceloSombrio/OlaMundodev) | Frontend deployed on Vercel — a snapshot from when I was learning UI. |
 
-## Como eu trabalho
+## How I work
 
-Prefiro projeto **rodável** (Docker, README com o fluxo, dado de exemplo) do que dump de curso. Os repositórios antigos da Alura ficam arquivados: são histórico de estudo, não o portfólio atual.
+I prefer a project you can **run** (Docker, a README with the flow, sample data) over a course dump. Older Alura repos are archived: study history, not the current portfolio.
 
-## Contato
+## Contact
 
 [GitHub](https://github.com/MarceloSombrio)
